@@ -6,7 +6,7 @@
 
 - 전화번호 : 010-5140-1342
 
-- Github : https://github.com/Jeon-do-yun
+- Github : <https://github.com/Jeon-do-yun>
 
 ## 자기 소개
 
